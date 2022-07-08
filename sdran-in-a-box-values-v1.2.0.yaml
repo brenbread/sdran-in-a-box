@@ -271,7 +271,7 @@ images:
     spgwc: docker.io/onosproject/riab-spgw:v1.0.0
     pcrf: docker.io/onosproject/riab-pcrf:v1.0.0
     pcrfdb: docker.io/onosproject/riab-pcrfdb:v1.0.0
-    bess: docker.io/onosproject/riab-bess-upf:v1.0.0
+    bess: docker.io/onosproject/riab-bess-upf:master-635b4d4
     pfcpiface: docker.io/onosproject/riab-pfcpiface:v1.0.0
 # For OAI
     oaicucp: docker.io/onosproject/oai-enb-cu:v0.1.6
